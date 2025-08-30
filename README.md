@@ -88,8 +88,7 @@ Finally, I deployed **IIS on the ProdWeb VM** and validated access via browser t
 
 - **Validation Tests**  
   ![Verify IIS](./screenshots/verify-connection-prodweb.png)  
-  ![Verify RDP Access](./screenshots/verify-rdp-access-mgmtvm.png)  
-  ![IIS Homepage](./screenshots/verify-iis-page.png)  
+  ![Verify RDP Access](./screenshots/verify-rdp-access-mgmtvm.png)   
 
 ---
 
